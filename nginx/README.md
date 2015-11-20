@@ -6,4 +6,4 @@
 - [location配置](./conf-location.md)  
 - [gzip配置](./conf-gzip.md)  
 - [log配置](./conf-log.md)  
-- ####Nginx监控篇
+####Nginx监控篇
