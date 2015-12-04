@@ -30,3 +30,7 @@ Git: commit 用来提交更改。ST2会自动跳出一个文本文件，你可�
 
 ###Emmet插件安装配置  
 搜索`Emmet`在线安装即可。代码生成快捷键是`Tab`或`Ctrl + E`，如：输入`html:5`，按`Tab`键，将生成Html5的文档。
+
+###Markdown及[MarkdownPreview](https://github.com/revolunet/sublimetext-markdown-preview)插件安装  
+搜索`MarkdownEditing`、`MarkdownPreview`在线安装即可。  
+`MarkdownPreview`用法：`Ctrl + Shift + P`搜索`Markdown Preview: Preview in Browser`，即可打开浏览器，预览当前文件。
