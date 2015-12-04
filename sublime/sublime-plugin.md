@@ -9,7 +9,7 @@ import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa
 1. 点击Preferences > Browse Packages菜单  
 2. 进入打开的目录的上层目录，然后再进入Installed Packages/目录  
 3. 下载[Package Control.sublime-package](https://packagecontrol.io/Package%20Control.sublime-package)  
-4. 重启Sublime Text
+4. 重启Sublime Text  
 参考资料：  
 * <https://packagecontrol.io/installation>  
 * <http://www.imjeff.cn/blog/62/>  
@@ -26,8 +26,6 @@ import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa
 Git: diff  
 Git: add  
 Git: commit 用来提交更改。ST2会自动跳出一个文本文件，你可以在文件的最上方输入comments，然后直接关闭(`Ctrl + W`)这个文件，就会出发commit操作。  
-
-
 ```
 
 
