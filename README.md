@@ -2,4 +2,5 @@
 我的技术笔记
 
 * [Redis笔记](./redis/)  
-* [Nginx笔记](./nginx/)
+* [Nginx笔记](./nginx/)  
+* [Sublime Text笔记](./sublime/)
