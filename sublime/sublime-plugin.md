@@ -25,7 +25,8 @@ import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa
 ```
 Git: diff  
 Git: add  
-Git: commit 用来提交更改。ST2会自动跳出一个文本文件，你可以在文件的最上方输入comments，然后直接关闭(`Ctrl + W`)这个文件，就会出发commit操作。  
+Git: commit 用来提交更改。ST2会自动跳出一个文本文件，你可以在文件的最上方输入comments，然后直接关闭(Ctrl + W)这个文件，就会出发commit操作。  
 ```
 
-
+###Emmet插件安装配置  
+搜索`Emmet`在线安装即可。代码生成快捷键是`Tab`或`Ctrl + E`，如：输入`html:5`，按`Tab`键，将生成Html5的文档。
