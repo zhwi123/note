@@ -33,4 +33,7 @@ Git: commit 用来提交更改。ST2会自动跳出一个文本文件，你可�
 
 ###Markdown及[MarkdownPreview](https://github.com/revolunet/sublimetext-markdown-preview)插件安装  
 搜索`MarkdownEditing`、`MarkdownPreview`在线安装即可。  
-`MarkdownPreview`用法：`Ctrl + Shift + P`搜索`Markdown Preview: Preview in Browser`，即可打开浏览器，预览当前文件。
+`MarkdownPreview`用法：`Ctrl + Shift + P`搜索`Markdown Preview: Preview in Browser`，即可打开浏览器，预览当前文件。  
+
+###GBK字体支持插件  
+ST2有时打开文件会显示乱码，可能是因为文件使用GBK编码，默认ST2不运行此编码，可以安装`GBK Encoding Suppor`和`ConvertToUTF8`插件来解决此问题。
