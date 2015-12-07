@@ -1,4 +1,4 @@
-# CentOS 6.7 Minimal Installation & Configuration
+# CentOS 6.x Minimal Installation & Configuration
 
 ## 启动网卡  
 CentOS 6.x最小化安装后，网卡默认不是启动状态
@@ -404,7 +404,7 @@ groupdel dip
 groupdel pppusers
 ```
 
-## 关闭重启ctl-alt-delete组合键
+## 关闭重启`ctl-alt-delete`组合键
 ```
 vi /etc/init/control-alt-delete.conf
 # 注释掉
@@ -420,3 +420,5 @@ sed -i "s/HISTSIZE=1000/HISTSIZE=10/" /etc/profile
 # 立即生效
 source /etc/profile
 ```
+
+原文来自：《[生产服务器环境最小化安装后 Centos 6.5优化配置备忘](http://www.lvtao.net/server/centos-server-setup.html)》
