@@ -5,9 +5,9 @@
 wget http://download.redis.io/releases/redis-3.0.5.tar.gz
 tar zxvf redis-3.0.5.tar.gz
 cd redis-3.0.5
-make
-make test
-make install
+sudo make
+sudo make test
+sudo make install
 ```
 执行`make test`需要使用`tcl`
 ```
