@@ -2,4 +2,5 @@
 
 [Redis简介及安装示例](./installation.md)  
 [Redis基本命令](./command.md)  
-[Redis事务机制](./transaction.md)
+[Redis事务机制](./transaction.md)  
+[Redis持久化](./persistence.md)  
