@@ -35,9 +35,18 @@ $ dnf config-manager --add-repo=http://repo.fdzh.org/FZUG/FZUG.repo
 ```
 
 #### dnf commands
+- <http://www.linuxidc.com/Linux/2015-06/118751.htm>
 ```
+$ dnf --version
 $ dnf install [package-name]
+$ dnf repolist
+$ dnf repolist all
 $ dnf list
+$ dnf list installed
+$ dnf list avaliable
+$ dnf search [package-name]
+$ dnf provides [package-name]
+$ dnf info [package-name]
 $ ...
 ```
 
